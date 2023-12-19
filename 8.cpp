@@ -51,9 +51,9 @@ int main() {
 //	for(auto item : ans) {
 //		cout<<item<<" ";
 //	}
-	cout<<"num:"<<ans.size()<<endl;
+//	cout<<"num:"<<ans.size()<<endl;
 	for(size_t i = 0; i < ans.size(); i++) {
-		cout<<ans[i]<<" ";
+		cout<<ans[i]<<endl;
 	}
 	return 0;
 }
